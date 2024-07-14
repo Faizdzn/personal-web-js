@@ -7,7 +7,7 @@ import projectCard from '@/components/card/projectCard.vue'
 
 <template>
     <pageDesc icon="FileCode" title="Projects" about="This is a page for showcasing all of my projects!" />
-    <div class="flex flex-wrap gap-[20px] justify-center">
+    <div class="flex flex-wrap max-md:flex-col gap-[20px] justify-center">
         <projectCard v-for="(data, index) in myProject" :key="index" :image="data['thumb']" :name="data['name']" :website="data['website']" :github="data['github']" :lang="data['lang']" />
     </div>
 </template>
