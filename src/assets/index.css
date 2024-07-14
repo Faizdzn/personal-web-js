@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --dark: #141414;
+    --black: #0B0B0B;
+    --light: #EBEBEB;
+
+    --muted: 25%;
+}
+
+body {
+    font-family: "Sora", sans-serif;
+    @apply bg-dark text-light
+}
+
+img {
+    @apply pointer-events-none
+}
+
+hr {
+    @apply stroke-light opacity-muted border-[1.5px] rounded-full
+}
