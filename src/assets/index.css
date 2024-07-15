@@ -22,3 +22,12 @@ img {
 hr {
     @apply stroke-light opacity-muted border-[1.5px] rounded-full
 }
+
+.scroll-hide::-webkit-scrollbar {
+    display: none;
+}
+
+.scrollbar-hide {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
