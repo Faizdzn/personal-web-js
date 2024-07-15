@@ -1,5 +1,29 @@
 [    
     {
+        "thumb": "/project/personal_web.png",
+        "name": "faizda.my.id",
+        "website": "",
+        "github": "https://github.com/Faizdzn/personal-web-js",
+        "lang": [
+            {
+                "color": "65ff60",
+                "name": "Vue"
+            },
+            {
+                "color": "65ff60",
+                "name": "Node.js"
+            },
+            {
+                "color": "ffce3d",
+                "name": "Javascript"
+            },
+            {
+                "color": "03a5fc",
+                "name": "TailwindCSS"
+            }
+        ]
+    },
+    {
         "thumb": "/project/char_down.png",
         "name": "character.faizda.my.id",
         "website": "https://character.faizda.my.id/",
@@ -39,7 +63,6 @@
             }
         ]
     },
-
     {
         "thumb": "/project/jurnal.png",
         "name": "jurnalistik26.my.id",
