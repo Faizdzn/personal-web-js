@@ -1,24 +1,4 @@
-[
-    {
-        "thumb": "/project/rblx_api.png",
-        "name": "rblx.faizda.my.id",
-        "website": "https://rblx.faizda.my.id/",
-        "github": "https://github.com/Faizdzn/rblxapi_backend",
-        "lang": [
-            {
-                "color": "fff",
-                "name": "Express.js"
-            },
-            {
-                "color": "65ff60",
-                "name": "Node.js"
-            },
-            {
-                "color": "ffce3d",
-                "name": "Javascript"
-            }
-        ]
-    },
+[    
     {
         "thumb": "/project/char_down.png",
         "name": "character.faizda.my.id",
@@ -39,6 +19,27 @@
             }
         ]
     },
+    {
+        "thumb": "/project/rblx_api.png",
+        "name": "rblx.faizda.my.id",
+        "website": "https://rblx.faizda.my.id/",
+        "github": "https://github.com/Faizdzn/rblxapi_backend",
+        "lang": [
+            {
+                "color": "fff",
+                "name": "Express.js"
+            },
+            {
+                "color": "65ff60",
+                "name": "Node.js"
+            },
+            {
+                "color": "ffce3d",
+                "name": "Javascript"
+            }
+        ]
+    },
+
     {
         "thumb": "/project/jurnal.png",
         "name": "jurnalistik26.my.id",
