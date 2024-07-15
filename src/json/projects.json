@@ -57,6 +57,10 @@
             {
                 "color": "ffce3d",
                 "name": "Javascript"
+            },
+            {
+                "color": "fff",
+                "name": "ShadcnUI"
             }
         ]
     }
