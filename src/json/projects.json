@@ -59,6 +59,10 @@
                 "name": "Javascript"
             },
             {
+                "color": "03a5fc",
+                "name": "TailwindCSS"
+            },
+            {
                 "color": "fff",
                 "name": "ShadcnUI"
             }
