@@ -24,6 +24,34 @@
         ]
     },
     {
+        "thumb": "/project/jurnal.png",
+        "name": "jurnalistik26.my.id",
+        "website": "https://jurnalistik26.my.id/",
+        "github": "",
+        "lang": [
+            {
+                "color": "65ff60",
+                "name": "Vue"
+            },
+            {
+                "color": "65ff60",
+                "name": "Node.js"
+            },
+            {
+                "color": "ffce3d",
+                "name": "Javascript"
+            },
+            {
+                "color": "03a5fc",
+                "name": "TailwindCSS"
+            },
+            {
+                "color": "fff",
+                "name": "ShadcnUI"
+            }
+        ]
+    },
+    {
         "thumb": "/project/char_down.png",
         "name": "character.faizda.my.id",
         "website": "https://character.faizda.my.id/",
@@ -60,34 +88,6 @@
             {
                 "color": "ffce3d",
                 "name": "Javascript"
-            }
-        ]
-    },
-    {
-        "thumb": "/project/jurnal.png",
-        "name": "jurnalistik26.my.id",
-        "website": "https://jurnalistik26.my.id/",
-        "github": "",
-        "lang": [
-            {
-                "color": "65ff60",
-                "name": "Vue"
-            },
-            {
-                "color": "65ff60",
-                "name": "Node.js"
-            },
-            {
-                "color": "ffce3d",
-                "name": "Javascript"
-            },
-            {
-                "color": "03a5fc",
-                "name": "TailwindCSS"
-            },
-            {
-                "color": "fff",
-                "name": "ShadcnUI"
             }
         ]
     }
