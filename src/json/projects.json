@@ -24,6 +24,30 @@
         ]
     },
     {
+        "thumb": "/project/bloxyverse_com.png",
+        "name": "bloxyverse.com",
+        "website": "https://bloxyverse.com/",
+        "github": "",
+        "lang": [
+            {
+                "color": "65ff60",
+                "name": "Vue.js"
+            },
+            {
+                "color": "65ff60",
+                "name": "Node.js"
+            },
+            {
+                "color": "ffce3d",
+                "name": "Javascript"
+            },
+            {
+                "color": "03a5fc",
+                "name": "TailwindCSS"
+            }
+        ]
+    },
+    {
         "thumb": "/project/jurnal.png",
         "name": "jurnalistik26.my.id",
         "website": "https://jurnalistik26.my.id/",

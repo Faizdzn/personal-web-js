@@ -27,7 +27,7 @@ defineProps({
                 </a>
             </div>
         </div>
-        <div v-if="lang.length >= 1" class="scroll-hide flex max-md:flex-wrap gap-[15px] w-full overflow-auto">
+        <div v-if="lang.length >= 1" class="flex max-md:flex-wrap gap-[15px] w-full overflow-auto">
             <LangBadge v-for="(data, index) in lang" :name="data['name']" :color="data['color']" :key="index" />
         </div>
     </div>
