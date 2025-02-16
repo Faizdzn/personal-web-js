@@ -30,6 +30,10 @@
         "github": "",
         "lang": [
             {
+                "color": "c28aff",
+                "name": "PHP"
+            },
+            {
                 "color": "65ff60",
                 "name": "Vue.js"
             },
